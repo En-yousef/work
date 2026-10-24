@@ -1,0 +1,10 @@
+print("|welcome to calculater| \n ")
+num1= float(input(" first numper = "))
+num2= float(input("secound numper = "))
+print("------------------------------")
+print("adding = "+str(num1+num2))
+print("subtract =  "+str(num1-num2))
+print("multiply =  "+str(num1*num2))
+print("divided =  "+str(num1/num2))
+print("modulus =  "+str(num1%num2))
+
